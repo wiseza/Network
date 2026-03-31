@@ -20,6 +20,6 @@ def send_message(message):
 
 if __name__ == "__main__":
     import sys
-    msg = " ".join(sys.argv[1:]) if len(sys.argv) > 1 else "Hello Advanced Server"
+    msg = " ".join(sys.argv[1:]) if len(sys.argv) > 1 else "Hello Wiseza"
     send_message(msg)
 
