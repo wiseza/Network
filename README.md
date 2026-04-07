@@ -10,24 +10,24 @@ For CP352005 Computer Network
 
 ## 📄 Personal Assignments
 
-| Assignment | Document | PDF |
-|---|---|---|
-| Essay | [personal essay](#) | [PDF](#) |
-| Assignment 2 – Topology | [Topology](#) | [PDF](#) |
-| Assignment 3 – Not Simple | [Not Simple](#) | [PDF](#) |
-| Assignment 4 – TCP-UDP | [TCP-UDP](#) | [PDF](#) |
+| Assignment | File |
+|---|---|
+| Essay | [File](https://docs.google.com/document/u/0/d/1CqJ5U9IofzsMuBDSspgJTsyX701hgCWu/edit) |
+| Assignment 2 – Topology | [File](https://docs.google.com/document/d/1Lfagaxz2qJ6F9TjF1F61uKlK_1fWOebpfmmjFVky7jg/edit?usp=sharing) |
+| Assignment 3 – Not Simple | [File](https://drive.google.com/file/d/1bK4PundLZpHE2ev2iVkjB_iOcicDyTeL/view?usp=sharing) |
+| Assignment 4 – TCP-UDP | [File](https://docs.google.com/document/d/11SuQzsYAXz4FKhMVWe8KaTWIxWhjZBqnS0oBoghVDWY/edit?usp=sharing) |
 
 ---
 
 ## 🧪 Labs 1–5
 
-| Lab | Document | PDF |
-|---|---|---|
-| Lab 1 | [Lab 1](#) | [PDF](#) |
-| Lab 2 | [Lab 2](#) | [PDF](#) |
-| Lab 3 | [Lab 3](#) | [PDF](#) |
-| Lab 4 | [Lab 4](#) | [PDF](#) |
-| Lab 5 | [Lab 5](#) | [PDF](#) |
+| Assignment | File |
+|---|---|
+| Lab 1 | [Lab 1](https://docs.google.com/document/d/1vtYlqgI2a4dl8QZcOM_5dX60jl6MhDn5w2cXu4fyqHA/edit?tab=t.0) |
+| Lab 2 | [Lab 2](https://docs.google.com/document/d/1om_9G98FlEn59QgyA8rxmZpEz1ys2JRl5T8UrRHiEac/edit?tab=t.0) |
+| Lab 3 | [Lab 3](https://docs.google.com/document/d/1nlxIK_lX2oP6NwvAXjeYUols5mv-GYe2VFN2yb5yuWk/edit?usp=sharing) |
+| Lab 4 | [Lab 4](https://docs.google.com/document/d/1KmzmrqtmaWmJNcFg0ESWmcoffmTp2RtY8NoLxUFedNE/edit?usp=sharing) |
+| Lab 5 | [Lab 5](https://docs.google.com/document/d/1yV_dftiP-KKhuW3z2_VLPL1zQWvbU0OqBTiaUtjGmDU/edit?usp=sharing) |
 
 ---
 
@@ -54,6 +54,8 @@ For CP352005 Computer Network
 ## 📝 Checkpoint Exam
 
 ผลคะแนนจาก Checkpoint Exams ทั้งหมดที่สอบผ่าน Cisco Networking Academy
+<img width="1807" height="701" alt="image" src="https://github.com/user-attachments/assets/78047d8a-5234-4b67-9f2b-496e143021c6" />
+
 
 ---
 
