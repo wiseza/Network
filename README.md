@@ -1,8 +1,10 @@
-# 🌐 Network-Portfolio
+## 📘 Personal Portfolio
+For CP352005 Computer Network
 
-**นางสาวณัฐนันทน์ บุษดี**  
-รหัสนักศึกษา `673380037-1` | Section 01  
-📧 natthanan.bo@kkumail.com
+**นางสาววิภาวี ฤทธิหาญ**  
+รหัสนักศึกษา `673380514-3` | Section 01  
+📧 wiphawi_ri@kkumail.com
+
 
 ---
 
